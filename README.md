@@ -6,6 +6,11 @@
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 LinkedIn: https://www.linkedin.com/in/iason-chaimalas/
 
+My Projects so far include:
+      - Small Python Projects & Shell Games
+      - Advanced MATLAB code
+      - Arduino code - project: driving a stirring motor with PID control
+
 <!---
 IasonC/IasonC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
