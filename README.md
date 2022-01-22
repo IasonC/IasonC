@@ -11,4 +11,4 @@ IasonC/IasonC is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IasonC)](https://github.com/IasonC/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IasonC&layout=compact)](https://github.com/IasonC/github-readme-stats)
