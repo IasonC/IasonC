@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m Iason Chaimalas. Current 2nd-year MEng Electronic & Electrical Engineering (EEE) student at University College London (UCL) in London, UK.
 - 👀 I’m interested in Electronic & Electrical Engineering, Software Engineering & Programming, and Machine Learning.
-      My degree in UCL teaches me EEE concepts alongside C (procedural) and Python (procedural + object-oriented) programming languages, and I am self-learning ML with Python.
+      My degree in UCL teaches me EEE and CS concepts alongside C (procedural) and Python (procedural + object-oriented) programming languages and the theory and practice of Machine Learning
+- 🎯 Current Project: 3rd Year UCL Project with BBC on Addressing the Cold Start Problem in Recommender Systems (Python, PyTorch, RecBole, Deep Learning)
 - 📫 LinkedIn: https://www.linkedin.com/in/iason-chaimalas/
 
 <!--- - 🌱 I’m currently learning ... --->
