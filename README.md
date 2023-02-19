@@ -1,9 +1,9 @@
-##  🎓 Current 2nd-year MEng EEE student at UCL
+##  🎓 Current 3rd-year MEng EEE-CS student at UCL
 
-- 👋 Hi, I’m Iason Chaimalas. Current 2nd-year MEng Electronic & Electrical Engineering (EEE) student at University College London (UCL) in London, UK.
-- 👀 I’m interested in Electronic & Electrical Engineering, Software Engineering & Programming, and Machine Learning.
+- 👋 Hi, I’m Iason Chaimalas. Current 3rd-year MEng Electronic & Electrical Engineering with Computer Science (EEE-CS) student at University College London (UCL).
+- 👀 I’m strongly interested in Machine Learning and Software Engineering.
       My degree in UCL teaches me EEE and CS concepts alongside C (procedural) and Python (procedural + object-oriented) programming languages and the theory and practice of Machine Learning
-- 🎯 Current Project: 3rd Year UCL Project with BBC on _Addressing the Cold Start Problem in Recommender Systems_ (Python, PyTorch, RecBole, Deep Learning)
+- 🎯 Current Project: 3rd Year UCL Project with BBC on _Addressing the Cold Start Problem in Recommender Systems_ (Python, PyTorch & Tensorflow/Keras, Deep Learning)
 - 📫 LinkedIn: https://www.linkedin.com/in/iason-chaimalas/
 
 <!--- - 🌱 I’m currently learning ... --->
