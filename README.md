@@ -4,7 +4,6 @@
 - 👀 I’m strongly interested in Machine Learning and Software Engineering.
       My degree in UCL teaches me EEE and CS concepts alongside C (procedural) and Python (procedural + object-oriented) programming languages and the theory and practice of Machine Learning
 - 🎯 Year 3 Undergrad Dissertation: 3rd Year UCL Project with BBC on _Addressing the Cold Start Problem in Recommender Systems_ (Python, ML)
-- 📫 LinkedIn: https://www.linkedin.com/in/iason-chaimalas/
 
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
