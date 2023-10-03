@@ -1,4 +1,4 @@
-##  🎓 Current 3rd-year MEng EEE-CS student at UCL
+##  🎓 Current 4th-year MEng EEE-CS student at UCL
 
 - 👋 Hi, I’m Iason Chaimalas. Current 4th-year MEng Electronic Engineering with Computer Science (EEE-CS) student at University College London (UCL).
 - 👀 I’m strongly interested in Machine Learning and Software Engineering.
