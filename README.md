@@ -1,9 +1,10 @@
-##  🎓 Current 4th-year MEng EEE-CS student at UCL
+👋 Hi, I’m Iason Chaimalas
 
-- 👋 Hi, I’m Iason Chaimalas. Current 4th-year MEng Electronic Engineering with Computer Science (EEE-CS) student at University College London (UCL).
+- 🎓 MEng Electronic Engineering with Computer Science (**EEE-CS**) at UCL (**Top Mark in Graduating Cohort**)
 - 👀 I’m strongly interested in Machine Learning and Software Engineering.
-      My degree in UCL teaches me EEE and CS concepts alongside C (procedural) and Python (procedural + object-oriented) programming languages and the theory and practice of Machine Learning
-- 🎯 Year 3 Undergrad Dissertation: 3rd Year UCL Project with BBC on _Addressing the Cold Start Problem in Recommender Systems_ (Python, ML)
+      My degree in UCL has taught me EEE and CS concepts alongside C (procedural) and Python (procedural + object-oriented) programming languages and the theory and practice of Machine Learning
+- 🎯 Year 3 Undergrad Dissertation: Collaboration with BBC on _Addressing the Cold Start Problem in Recommender Systems_ (Python, ML)
+- 🎯 Year 4 Masters Dissertation: Platform-independent and environment-robust _GUI Automation_ for automatic task execution and GUI actuation (ML, Computer Vision, Data Acquisition/Labelling)
 
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
