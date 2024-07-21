@@ -1,8 +1,7 @@
 👋 Hi, I’m Iason Chaimalas
 
 - 🎓 MEng Electronic Engineering with Computer Science (**EEE-CS**) at UCL (**Top Mark in Graduating Cohort**)
-- 👀 I’m strongly interested in Machine Learning and Software Engineering.
-      My degree in UCL has taught me EEE and CS concepts alongside C (procedural) and Python (procedural + object-oriented) programming languages and the theory and practice of Machine Learning
+- 👀 Research Interests: Software Engineering & Machine Learning (Recommenders, Computer Vision, Robustness, Language Models)
 - 🎯 Year 3 Undergrad Dissertation: Collaboration with BBC on _Addressing the Cold Start Problem in Recommender Systems_ (Python, ML)
 - 🎯 Year 4 Masters Dissertation: Platform-independent and environment-robust _GUI Automation_ for automatic task execution and GUI actuation (ML, Computer Vision, Data Acquisition/Labelling)
 
