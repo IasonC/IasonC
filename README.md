@@ -17,11 +17,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img height="40" width="40" src="https://user-images.githubusercontent.com/73920832/196502539-6b68bb43-73df-4ab9-a82f-61f88379c6b4.png" />
-
 </p>
-
-### At a Glance
-| <a href="https://github.com/IasonC/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IasonC&show_icons=true&include_all_commits=true&theme=bluefy&hide_border=true" alt="Iason's github stats" /></a> | <a href="https://github.com/IasonC/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasonC&layout=compact&theme=bluefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<!--- ![](https://visitor-badge.laobi.icu/badge?page_id=IasonC.IasonC) --->
